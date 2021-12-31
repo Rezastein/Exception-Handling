@@ -6,7 +6,7 @@ while True:
             else:
                 break
         except:
-            print("Harap Masukan Angka")
+            print("Harap Masukan NAMA")
         else:
             break
         finally:
