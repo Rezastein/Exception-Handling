@@ -2,9 +2,15 @@
 
 [![instagram](https://img.shields.io/badge/Nama-Maulana%20Reza-blue.svg)](https://www.instagram.com/rezastein_) [![instagram](https://img.shields.io/badge/Nim-312110510-blue.svg)](https://www.instagram.com/rezastein_) [![instagram](https://img.shields.io/badge/Kelas-TI.21.C5-blue.svg)](https://www.instagram.com/rezastein_)
 
-### **MY SOSIAL MEDIA :**
+### Connect with me:
 
-[![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/30px-Instagram_logo_2016.svg.png)](https://www.instagram.com/rezastein_) <br> [![facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/30px-F_icon.svg.png)](https://www.facebook.com/rezastein.rezastein) <br> [![twiter](https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/30px-Twitter_bird_logo_2012.svg.png)](https://twitter.com/rezastein_) <br> [![whatapp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/30px-WhatsApp.svg.png)](https://wa.me/qr/UK5NMG54XWHJC1)
+[<img align="left" alt="rezastein.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://officialeinsteinpro.wordpress.com/)
+[<img align="left" alt="rezastein| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCNKeQLX0b-a65ZVLIPlhc9w)
+[<img align="left" alt="rezastein | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rezastein_)
+[<img align="left" alt="rezastein | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/rezastein.rezastein)
+
+[<img align="left" alt="rezastein | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rezastein_)
+<br />
 
 
 Python Exception handling adalah suatu mekanisme penanganan flow normal program karena terjadi exception dengan melanjutkan flow ke code block lainnya.
